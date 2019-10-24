@@ -1,0 +1,11 @@
+version: '3'
+
+services: 
+  apps:
+    build: ./apps
+    ports: 
+      - "5000:5000"
+    links: 
+      - database
+  database:
+    build: ./database
