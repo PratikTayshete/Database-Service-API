@@ -1,4 +1,4 @@
-# Database-Service-API
+# REST-API-Database-Service
 Implementing REST API as a service to access a mongodb database
 
 In this API:
