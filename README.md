@@ -1,5 +1,5 @@
 # Database-Service-API
-Implementing REST API as a service to access a sample mongodb database
+Implementing REST API as a service to access a mongodb database
 
 In this API:
 
